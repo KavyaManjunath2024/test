@@ -1,0 +1,10 @@
+.navigation > nav-item {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px
+}
+
+.button {
+    background-color: yellow;
+}
